@@ -8,17 +8,17 @@ __version__ = "1.0.0"
 __author__ = "TRScan Security Team"
 __license__ = "MIT"
 
-from .scanner import WebSecurityScanner
 from .models import (
-    Finding,
     CookieInfo,
-    HeaderAnalysis,
-    TLSInfo,
     DNSInfo,
+    Finding,
+    HeaderAnalysis,
     PageInfo,
-    SecurityScore,
     ScanResult,
+    SecurityScore,
+    TLSInfo,
 )
+from .scanner import WebSecurityScanner
 
 __all__ = [
     "WebSecurityScanner",
