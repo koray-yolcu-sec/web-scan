@@ -122,7 +122,6 @@ class TLSAnalyzer:
         """
         findings = []
 
-
         expiry_date = cert_info.get("expiry_date")
 
         # Sertifika bitiş kontrolü
