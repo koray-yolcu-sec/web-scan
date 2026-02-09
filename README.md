@@ -7,8 +7,18 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![Security](https://img.shields.io/badge/security-passive-brightgreen.svg)]()
+[![Used in AltaySec Atölye](https://img.shields.io/badge/Used%20in-AltaySec%20Atolye-b91c1c?style=flat-square)](https://atolye.altaysec.com.tr)
+
 
 </div>
+
+## 🔗 Referans & Kullanım
+
+Bu proje, **AltaySec Atölye** platformunda eğitim ve güvenlik farkındalığı amacıyla kullanılmaktadır.
+
+- **AltaySec Atölye:** https://atolye.altaysec.com.tr  
+- **AltaySec Ana Site:** https://altaysec.com.tr
+
 
 ## ✨ Özellikler
 
