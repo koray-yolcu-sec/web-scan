@@ -208,8 +208,6 @@ add_header Content-Security-Policy "default-src 'self';" always;
 
 ## 🤝 Katkıda Bulunma
 
-Katkılarınızı bekliyoruz! Lütfen [CONTRIBUTING.md](CONTRIBUTING.md) dosyasını okuyun.
-
 1. Fork yapın
 2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
 3. Değişikliklerinizi commit edin (`git commit -m 'Add amazing feature'`)
